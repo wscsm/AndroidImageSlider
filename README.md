@@ -21,7 +21,7 @@ You can easily load images from an internet URL, drawable, or file. And there ar
 ```groovy
 dependencies {
     	compile "com.android.support:support-v4:+"
-    	compile 'com.squareup.picasso:picasso:2.3.2'
+    	compile 'com.github.bumptech.glide:glide:3.6.0
     	compile 'com.nineoldandroids:library:2.4.0'
     	compile 'com.daimajia.slider:library:1.1.5@aar'
 }
@@ -32,9 +32,9 @@ dependencies {
 
 ```xml
 <dependency>
-    <groupId>com.squareup.picasso</groupId>
-    <artifactId>picasso</artifactId>
-    <version>2.3.2</version>
+    <groupId>com.github.bumptech.glide</groupId>
+    <artifactId>glide</artifactId>
+    <version>3.6.0</version>
 </dependency>
 <dependency>
     <groupId>com.nineoldandroids</groupId>
