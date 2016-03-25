@@ -10,7 +10,7 @@ You can easily load images from an internet URL, drawable, or file. And there ar
  
 ![](http://ww3.sinaimg.cn/mw690/610dc034jw1egzor66ojdg20950fknpe.gif)
 
-[Download Apk](https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk)
+[Download Apk](https://github.com/wscsm/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk)
  
 ## Usage
 
@@ -104,10 +104,10 @@ Please visit [Wiki](https://github.com/daimajia/AndroidImageSlider/wiki)
  
 ## Thanks
 
-- [Picasso](https://github.com/square/picasso)
+- [Glide](https://github.com/bumptech/glide)
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 - [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
 
-##About me
+##About project
  
-I am a student in mainland China. I love Google, love Android, love everything that is interesting. If you get any problems when using this library or you have an internship opportunity, please feel free to [email me](mailto:daimajia@gmail.com). :smiley:
+This project based daimajia's AndroidImageSlider, replace picaso with glide. :smiley:
